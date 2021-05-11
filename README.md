@@ -1,4 +1,4 @@
-# Paradox (In)Security Systems: IP150 Inernet Module Hijacking 
+# Paradox (In)Security Systems: IP150 Internet Module Hijacking 
 
  
 
