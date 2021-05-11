@@ -157,7 +157,7 @@ As we could not inform Paradox about these vulnerabilities, due do them ignoring
 - 2021-03-11 - Ticket closed, no response from Paradox. 
 - 2021-05-03 - Contacting Paradox support at support@paradox.com about security vulnerabilities. Automatic ticket created. 
 - 2021-05-04 - Ticket closed, no response from Paradox. 
-- 2021-05-11 – Article released. 
+- 2021-05-11 - Article released. 
 
  
 
